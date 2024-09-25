@@ -17,6 +17,7 @@ $\color{green)}{\textsf{- easy to set up and use}}$
 $\color{green)}{\textsf{- good lag resistance}}$
 
 $\color{red}{\textsf{whats - :}}$
+
 $\color{red}{\textsf{- a lot of data register and play}}$
 
 $\color{red}{\textsf{- need hight rate to seem natural movement}}$
