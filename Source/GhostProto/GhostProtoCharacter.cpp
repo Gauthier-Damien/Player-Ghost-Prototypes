@@ -58,6 +58,9 @@ void AGhostProtoCharacter::BeginPlay()
 {
 	// Call the base class  
 	Super::BeginPlay();
+
+
+
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -91,6 +94,10 @@ void AGhostProtoCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 	{
 		UE_LOG(LogTemplateCharacter, Error, TEXT("'%s' Failed to find an Enhanced Input component! This template is built to use the Enhanced Input system. If you intend to use the legacy system, then you will need to update this C++ file."), *GetNameSafe(this));
 	}
+
+	FString s = Controller->GetControlRotation().ToString();
+	UE_LOG(LogTemp, Error, TEXT("%s"), *s);
+
 }
 
 void AGhostProtoCharacter::Move(const FInputActionValue& Value)
@@ -123,6 +130,9 @@ void AGhostProtoCharacter::Look(const FInputActionValue& Value)
 
 	if (Controller != nullptr)
 	{
+		FString s = Controller->GetControlRotation().ToString();
+		UE_LOG(LogTemp, Error, TEXT("%s"),*s);
+
 		// add yaw and pitch input to controller
 		AddControllerYawInput(LookAxisVector.X);
 		AddControllerPitchInput(LookAxisVector.Y);

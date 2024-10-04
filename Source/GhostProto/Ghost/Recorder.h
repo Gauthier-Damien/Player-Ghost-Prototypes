@@ -82,6 +82,8 @@ public:
 	UPROPERTY(VisibleAnywhere)
 	TArray<FVector> locations;
 
+
+
 	inline void AddLocation(FVector _location)
 	{
 		locations.Add(_location);
@@ -190,4 +192,7 @@ private:
 		_switchToTrue->SetActorEnableCollision(true);
 		_switchToFalse->SetActorEnableCollision(false);
 	}
+
+
+
 };

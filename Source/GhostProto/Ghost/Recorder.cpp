@@ -45,6 +45,7 @@ void ARecorder::RegisterLocation()
 
 }
 
+
 void ARecorder::Play()
 {
 	if (!recorderData.ghostActor || playIndex >= playData.locations.Num()) 
