@@ -49,9 +49,9 @@ $\color{green)}{\textsf{- easy use}}$
 
 $\color{red}{\textsf{whats - :}}$
 
-$\color{red)}{\textsf{- lag can mess up with it}}$
+$\color{red}{\textsf{-  lag can mess up with it}}$
 
-$\color{red}{\textsf{- need same configuration to play (placement,speed...}}$
+$\color{red}{\textsf{- need same configuration to play (placement,speed...)}}$
 
 
 
