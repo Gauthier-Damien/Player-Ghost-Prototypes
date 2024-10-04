@@ -32,12 +32,12 @@ $\color{red}{\textsf{- need hight rate to seem natural movement}}$
 
 ![GhostProto - Unreal Editor 2024-09-25 11-47-28](https://github.com/user-attachments/assets/b6422097-11f2-4d2c-844c-b34a499b7a24)
 
-##Second Prototype / Inputs
+## Second Prototype / Inputs
 
 Record Player input, and pass it to ghost.
 ghost read input fill, and retribut it.
 
-###overview
+### overview
 
 $\color{green)}{\textsf{whats + :}}$
 
