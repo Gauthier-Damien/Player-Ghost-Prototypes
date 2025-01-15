@@ -61,7 +61,9 @@ $\color{red}{\textsf{- need same configuration to play (placement,speed...)}}$
 
 ![GhostProto - Unreal Editor 2024-10-04 14-37-04 (online-video-cutter com)](https://github.com/user-attachments/assets/88e0d73b-3e59-4861-9436-d6a71067505b)
 
+## Second Prototype / Inputs (Proof of concept)
 
+In replay Folder, a replay actor as been put, extract from a game i'm dev.
 
 
 
