@@ -63,7 +63,7 @@ $\color{red}{\textsf{- need same configuration to play (placement,speed...)}}$
 
 ## Second Prototype / Inputs (Proof of concept)
 
-In replay Folder, a replay actor as been put, extract from a game i'm dev.
+In replay Folder, a replay actor as been put, extract from a game i'm dev. (Objective : avoid multiplayer struct)
 
 
 
